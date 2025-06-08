@@ -1,0 +1,2 @@
+# cpp_erpc_naive_example
+cpp_erpc_naive_example
